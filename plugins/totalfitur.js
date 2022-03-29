@@ -2,7 +2,7 @@ let handler = async (m, { conn, args, command }) => {
 let totalf = Object.values(global.plugins).filter(
     (v) => v.help && v.tags
   ).length;
-conn.reply(m.chat, `Total zifabotz MD Fitur saat ini: ${totalf}`,m)
+conn.reply(m.chat, `Total fitur zifabotz MD saat ini: ${totalf}`,m)
 }
 
 handler.help = ['totalfitur']
