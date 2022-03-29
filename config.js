@@ -35,7 +35,7 @@ global.author = 'zifabotz-MD'
 global.email = 'ozan6825@hotmail'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© zifabotz-MD'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.media = 'https://telegra.ph/file/127d7c0701bf442387c94.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
